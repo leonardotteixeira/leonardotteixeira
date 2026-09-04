@@ -1,10 +1,14 @@
 # Leonardo Teixeira
 
-Data / BI · Software Development · Automation
+Data & BI · Financial Analytics · Software Development · Automation
 
 ## About
 
-Atuo na interseção entre dados e software: transformo dados operacionais e financeiros em indicadores, dashboards e automações, e desenvolvo as aplicações que sustentam esse trabalho. Uso SQL e Python para analisar dados e automatizar processos, e hoje estou aprofundando desenvolvimento web com React, Next.js e TypeScript, aplicando esse mesmo raciocínio de dados na construção de produtos — dashboards, integrações via API e ferramentas internas de automação. Estudante de Estatística na UNICAMP.
+I work at the intersection of data, business and software.
+
+My main professional experience is in Business Intelligence in the investment industry: building and maintaining Power BI dashboards, tracking commercial and financial KPIs, and automating recurring processes with SQL, Python and Power Automate. Alongside that, I've been developing software — React, Next.js, TypeScript and Node.js — to build the dashboards, integrations and applications that this kind of work increasingly requires.
+
+Before BI, I spent a year as a student researcher (UNICAMP/CNPq), collecting and analyzing data on poultry production efficiency, and interned in insurance operations and finance. Bachelor's in Agricultural Engineering at UNICAMP (2023–2027). CPA-20 certified (ANBIMA).
 
 ## Tech Stack
 
@@ -17,22 +21,25 @@ React · Next.js · Tailwind CSS
 **Backend & Data**
 Node.js · Express · PostgreSQL · Supabase · PocketBase
 
+**BI & Analytics**
+Power BI · DAX · Power Query · Pandas · Excel
+
 **Automation & Integrations**
-WhatsApp (Baileys) · Monday.com API · Webhooks de pagamento (Asaas, InfinitePay)
+WhatsApp APIs (Baileys) · Monday.com API · Power Automate · Webhooks
 
 ## Featured Projects
 
 **[Patronos NPS Dashboard](https://github.com/leonardotteixeira/FundoPatrimonialPatronos-NPS-DASH)** — Next.js · TypeScript · Server Components
-Painel de resultados de pesquisa de satisfação (NPS), com comparação entre grupos e filtro por sessão. Dados lidos e processados no servidor, sem banco nem API separada.
+Dashboard for visualizing NPS survey results, comparing mentors and mentees and segmenting by session. Data is read and processed server-side — no database, no separate API.
 
 **Prediction Market** — [frontend](https://github.com/leonardotteixeira/preditivo) · [backend](https://github.com/leonardotteixeira/preditivo-backend) — JavaScript · Node.js · PostgreSQL
-Aplicação de mercado de previsão (contratos SIM/NÃO precificados por AMM), dividida em frontend e API — projeto de estudo sobre produto, precificação e compliance regulatório.
+A prediction market application (YES/NO contracts priced by an AMM), split into a frontend and an API — a product and regulatory-context study project.
 
 **[DashComigo](https://github.com/leonardotteixeira/dashcomigo)** — React · TypeScript · Node.js
-Gestão financeira para MEI: fluxo de caixa, contas a pagar/receber, DAS-MEI e propostas comerciais com geração de texto por IA.
+Financial management for Brazilian micro-entrepreneurs (MEI): cash flow, payables/receivables, tax tracking and AI-generated business proposals.
 
 **[Zenvia × Monday Automation](https://github.com/leonardotteixeira/Zenvia-Roteador-Monday)** — Python · Flask
-Roteador de atendimento que consulta um board do Monday.com para direcionar conversas de WhatsApp recebidas via Zenvia ao atendente correto.
+Routes incoming WhatsApp conversations (via Zenvia) to the right support agent by looking them up on a Monday.com board.
 
 **[Patronos NPS Bot](https://github.com/leonardotteixeira/FundoPatrimonialPatronos-NPS-bot)** — Node.js
-Bot de WhatsApp que aplica pesquisa de satisfação a mentores e mentorados de um programa de mentoria, conduzindo a conversa e consolidando as respostas.
+WhatsApp bot that runs a satisfaction survey for mentors and mentees in a mentorship program, holding the conversation and consolidating responses.
