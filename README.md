@@ -6,7 +6,7 @@ Data & BI · Análise Financeira · Software Development · Automação
 
 Atuo na interseção entre dados, negócio e software.
 
-Minha experiência profissional principal é em Business Intelligence no setor de investimentos: construção e manutenção de dashboards em Power BI, acompanhamento de KPIs comerciais e financeiros, e automação de processos recorrentes com SQL, Python e Power Automate. Em paralelo, venho desenvolvendo software — React, Next.js, TypeScript e Node.js — pra construir os dashboards, integrações e aplicações que esse tipo de trabalho cada vez mais exige.
+Minha experiência profissional principal é em Business Intelligence no setor de investimentos: construção e manutenção de dashboards em Power BI, acompanhamento de KPIs comerciais e financeiros, e automação de processos recorrentes com SQL, Python e Power Automate. Em paralelo, venho desenvolvendo software — React, Next.js, TypeScript e Node.js — pra construir os dashboards, integrações e aplicações que esse tipo de trabalho cada vez mais exige. Também atuo como analista de editais e projetos na [Patronos](https://www.patronos.org/), fundo patrimonial de um programa de mentoria, onde desenvolvi as automações de WhatsApp usadas na coleta de pesquisas de satisfação.
 
 Antes do BI, passei um ano como pesquisador (UNICAMP/CNPq), coletando e analisando dados sobre eficiência de sistemas de produção avícola, e estagiei em operações de seguros e financeiro. Graduando em Engenharia Agrícola pela UNICAMP (2023–2027). Certificado CPA-20 (ANBIMA).
 
@@ -42,4 +42,4 @@ Gestão financeira para MEI: fluxo de caixa, contas a pagar/receber, DAS-MEI e p
 Roteador de atendimento que consulta um board do Monday.com para direcionar conversas de WhatsApp recebidas via Zenvia ao atendente correto.
 
 **[Patronos NPS Bot](https://github.com/leonardotteixeira/FundoPatrimonialPatronos-NPS-bot)** — Node.js
-Bot de WhatsApp que aplica pesquisa de satisfação a mentores e mentorados de um programa de mentoria, conduzindo a conversa e consolidando as respostas.
+Bot de WhatsApp que aplica pesquisa de satisfação a mentores e mentorados do programa Trilha de Carreiras, na [Patronos](https://www.patronos.org/), conduzindo a conversa e consolidando as respostas.
