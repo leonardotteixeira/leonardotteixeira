@@ -19,7 +19,7 @@ TypeScript · JavaScript · Python · SQL
 React · Next.js · Tailwind CSS
 
 **Backend & Data**
-Node.js · Express · PostgreSQL · Supabase · PocketBase
+Node.js · Express · FastAPI · PostgreSQL (+ pgvector) · Supabase · PocketBase
 
 **BI & Analytics**
 Power BI · DAX · Power Query · Pandas · Excel
@@ -28,6 +28,21 @@ Power BI · DAX · Power Query · Pandas · Excel
 WhatsApp APIs (Baileys) · Monday.com API · Power Automate · Webhooks
 
 ## Featured Projects
+
+**[InvestLab](https://github.com/leonardotteixeira/investlab)** — Next.js · TypeScript · Tailwind CSS
+Simulador de investimentos e painel financeiro: juros compostos, metas, comparação de cenários, e dados reais do Banco Central (Selic, IPCA, câmbio) e da B3 — sem banco de dados, simulações compartilháveis por URL.
+
+**[Production RAG](https://github.com/leonardotteixeira/production-rag)** — Python · FastAPI · PostgreSQL + pgvector
+Sistema de RAG com busca híbrida (vetorial + lexical via RRF), reranking e citações rastreáveis até a página de origem do documento.
+
+**[AI Gateway](https://github.com/leonardotteixeira/ai-gateway)** — Python · FastAPI · PostgreSQL
+Gateway para LLMs com autenticação, retry/backoff, fallback entre provedores, rate limiting, controle de custo e observabilidade entre aplicações e OpenAI/Anthropic.
+
+**[AI Eval Lab](https://github.com/leonardotteixeira/ai-eval-lab)** — Python · Pydantic · Typer
+Framework de avaliação sistemática de aplicações LLM: datasets versionados, métricas determinísticas e LLM-as-judge, detecção de regressão com thresholds, e gate de CI.
+
+**[Tênis da Vida](https://github.com/leonardotteixeira/tenis-da-vida)** — TypeScript · Canvas
+Jogo de tênis 2D em pixel art construído do zero — física arcade, rally jogável, saque manual com timing, e adversária controlada por IA determinística.
 
 **[Patronos NPS Dashboard](https://github.com/leonardotteixeira/FundoPatrimonialPatronos-NPS-DASH)** — Next.js · TypeScript · Server Components
 Painel de resultados de pesquisa de satisfação (NPS), com comparação entre grupos e filtro por sessão. Dados lidos e processados no servidor, sem banco nem API separada.
